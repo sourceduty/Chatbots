@@ -43,3 +43,5 @@ Moreover, AI-to-AI interactions can be strategically designed to improve system 
 [Sourceduty Custom GPTs](https://sourceduty.com/custom-gpts/)
 <br>
 [Custom GPTs Repo](https://github.com/sourceduty/Custom_GPTs)
+<br>
+[Feedback Automation](https://github.com/sourceduty/Feedback_Automation)
