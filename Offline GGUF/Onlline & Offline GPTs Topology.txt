@@ -1,0 +1,47 @@
+GPT Systems
+├── Online GPTs
+│   ├── Cloud-Based Models
+│   │   ├── OpenAI API (ChatGPT, GPT-4, GPT-3.5)
+│   │   ├── Google Gemini
+│   │   ├── Anthropic Claude
+│   │   ├── Microsoft Copilot
+│   │   └── Hugging Face Spaces (Hosted Inference)
+│   ├── Fine-Tuned Online Models
+│   │   ├── OpenAI Custom GPTs
+│   │   ├── Hugging Face Model Deployment
+│   │   ├── Google Vertex AI
+│   │   ├── AWS Bedrock
+│   │   └── Azure OpenAI Service
+│   └── API-Based Integrations
+│       ├── Chatbot APIs
+│       ├── AI-Powered Search (Perplexity, Bing AI)
+│       ├── Content Generation Tools (Jasper, Copy.ai)
+│       └── Enterprise AI Assistants
+│
+├── Offline GPTs
+   ├── Local Inference
+   │   ├── Llama.cpp (Meta LLaMA Models)
+   │   ├── GPT4All (Offline LLMs)
+   │   ├── Ollama (Run models locally)
+   │   ├── LM Studio (GUI for local LLMs)
+   │   ├── TensorRT-LLM (Optimized for NVIDIA GPUs)
+   │   ├── AutoGPTQ (Quantized GPTs for CPU/GPU)
+   │   └── GPT-SW3 (Swedish GPT model)
+   ├── Fine-Tuned Local Models
+   │   ├── LoRA-Adaptive Models
+   │   ├── QLoRA Optimized GPTs
+   │   ├── Alpaca Variants
+   │   ├── Mistral & Mixtral (Efficient Local LLMs)
+   │   ├── Phi-2 (Small-Scale Transformer)
+   │   └── Falcon LLM (Offline Version)
+   ├── Edge AI GPTs
+   │   ├── Mobile-Optimized GPTs (CoreML, TFLite)
+   │   ├── Embedded AI Models (Raspberry Pi, Jetson)
+   │   ├── AI on IoT Devices
+   │   └── FPGA/ASIC-Based LLMs
+   └── Custom Deployment Frameworks
+       ├── Private AI (Local Secure GPTs)
+       ├── Open-Source Model Hosting (FastAPI, Flask)
+       ├── LangChain for Offline Use
+       ├── RAG Pipelines with Local Data
+       └── On-Premise AI Solutions
