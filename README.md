@@ -59,3 +59,5 @@ An EV chatbot is an intelligent conversational assistant specifically designed f
 [Custom GPTs Repo](https://github.com/sourceduty/Custom_GPTs)
 <br>
 [Feedback Automation](https://github.com/sourceduty/Feedback_Automation)
+<br>
+[Text Entry Games](https://chatgpt.com/g/g-6828e688a8688191ac6729345214b92f-text-entry-games)
